@@ -8,7 +8,7 @@ public class CalculatingSales {
         Scanner input = new Scanner(System.in);
 
           int  productNumber = 0;
-        int    counter = 0;
+          int    counter = 0;
         while (productNumber!= 6) {
 
             System.out.println("1 - Product 1, $2.98");
